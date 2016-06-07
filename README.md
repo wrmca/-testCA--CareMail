@@ -6,4 +6,5 @@ CGI leveraged our scrum based agile effort organized around weekly sprints to ad
 ![AgileProcess]
 (process.jpg)
 
-A full set refernce artifacts exist at
+
+[A full set refernce artifacts exist at](https://www.google.com)
