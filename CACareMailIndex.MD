@@ -12,3 +12,11 @@
 |g. Used an iterative approach, where feedback informed subsequent work or versions of the prototype.|User Stories are available in the POC backlog. UX Testing Documentation is available |(filename)|
 |h. Created a prototype that works on multiple devices, and presents a responsive design.|CGI POC styleguide available. UX testing documentation includes multiple devices.UAT Testing validated multiple devices|(filename)|
 |i. Used at least five modern (see Note #2) and open-source technologies, regardless of architectural layer (frontend, backend, etc.)| We’re using 7 different technologies across several layers and roles in the POC solution. They include Spring Boot, Docker, Bower, Bootstrap, Karma, Grunt and Slack. Full solution architecture included.|(filename)|
+|j. Deployed the prototype on an Infrastructure as a Service (Iaas) or Platform as Service (Paas) provider, and indicated which provider they used.| deployed on Amazon/AWS as IaaS. AWS deployment configuration included.|(filename)|
+|k. Developed automated unit tests for their code|JUnit automation for testing scripts. Bamboo used for automatted build testing. |(filename)|
+|l. Setup or used a continuous integration system to automate the running of tests and continuously deployed their code to their IaaS or PaaS provider.| Automation architecture outlined. Examples of continuous build scripts and automated testing results|(filename)|
+|m. Setup or used configuration management|Configuration Management organized using Docker. Full CM included.|(filename)|
+|n. Setup or used continuous monitoring|WIP|(filename)|
+|o. Deployed their software in a container (i.e., utilized operating-system-level virtualization)|Configuration Management organized using Docker. Full CM plan included|(filename)|
+|p. Provided sufficient documentation to install and run their prototype on another machine|Docker streamlines installation on new hosts, documentation included.|(filename)|
+|q. Prototype and underlying platforms used to create and run the prototype are openly licensed and free of charge|POC licensed with Open Source Initiative (MIT) license.|Copy of the license available.|(filename)|
