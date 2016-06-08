@@ -13,6 +13,8 @@ CA->CareMail POC from a blank slate to a shippable MVP in about three weeks. Rea
 
 
 (process.jpg)  
+(process.JPG)  
+(process)  
 
 A full set refernce artifacts exist [here](CACareMailIndex.MD)  
 
