@@ -10,8 +10,7 @@ The CGI Sacramento office is very pleased to submit the CA->CareMail POC under S
 CGI organized our Scrum-based Agile effort around weekly Sprints to advance the 
 CA->CareMail POC from a blank slate to a shippable MVP in about three weeks. Real-time communication kept the team focused and minimized missteps. 
 
-(agileprocess.jpg)
-
+(2.jpg)
 
 Figure 1 – the fast and flexible CGI agile process
 
