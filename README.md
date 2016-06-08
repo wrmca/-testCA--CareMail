@@ -12,7 +12,7 @@ CGI organized our Scrum-based Agile effort around weekly Sprints to advance the
 CA->CareMail POC from a blank slate to a shippable MVP in about three weeks. Real-time communication kept the team focused and minimized missteps. 
 
 
-(agileprocess.jpg)  
+(process.jpg)  
 
 A full set refernce artifacts exist [here](CACareMailIndex.MD)  
 
