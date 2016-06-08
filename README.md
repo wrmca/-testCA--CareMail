@@ -12,6 +12,7 @@ CA->CareMail POC from a blank slate to a shippable MVP in about three weeks. Rea
 
 (agileprocess.jpg)
 
+
 Figure 1 – the fast and flexible CGI agile process
 
 Initial tasks focused on decomposing the early vision of our Product Manager through stakeholder engagement and user experience modeling. This resulted in an initial set of personas and user stories being loaded into the Product Backlog. Design and ideation sessions continued during all Sprints to focus and evolve the POC. 
