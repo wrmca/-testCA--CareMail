@@ -36,6 +36,14 @@ Major events in the CA->CareMail POC timeline visually unfolded as seen in Figur
 ###POC Backlog
 Our product pipeline identified the core Child Welfare functionality needed by the CA->CareMail POC. We acknowledged that the actual detail of Child Welfare service processes extend far beyond the scope of this engagement. Figure 3 visually represents the key services developed in the POC vs the scope of material staged for future development. For example, we developed a symbolic shell of a Case Plan as a proxy for future refinement.
 
+![Scope]
+(POCScope.jpg)
+*Figure 3 – Scope of the POC vs. those items noted for future development*
+
+The CA->CareMail POC backlog was managed in JIRA and was visible to the team. Following a positive Agile process, features that could not be completed within the POC duration are visible in the JIRA roadmap for the State’s consideration.  The POC product backlog is available as a resource .
+
+Our digital Sprint board (see Figure 4) shows how the team coordinated daily tasks from To Do, In Progress (coding), through Peer Review, Testing and finally into “Done” status. 
+
 
 A full set refernce artifacts exist [here](CACareMailIndex.MD)
 
