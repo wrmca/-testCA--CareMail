@@ -52,7 +52,7 @@ Our digital Sprint board (see Figure 4) shows how the team coordinated daily tas
 A blended team of agile developers, foster care domain stakeholders, and user experience researchers came together collaboratively to develop the CA->CareMail POC. For several team members, the project took on a special meaning since they have significant connections to the Child Welfare community.  The CGI team included members from twelve of the labor categories identified in Attachment C, as shown in Figure 5.
 
 ![CGI Team]
-(cgiteamC.jpg)
+(4.jpg)
 *Figure 5 – The dedicated and experienced CGI POC team*
 
 Our combined team brings over 70+ years of partnership experience with CHHS, 75+ years in foster care support, 35+ years of open-source software technology and 45+ years in agile development. 
