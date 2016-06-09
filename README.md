@@ -3,7 +3,7 @@
 ####URL to the CGI CA->CareMail POC Application: http://52.9.243.241/
 
 ###Introduction
-Quoting the musical poet Bob Dylan- “For the times they are a-changin'”.  The HHS community we jointly serve is becoming more millennial-focused every day, expecting intuitive, accessible, and integrated solutions to deliver social service programs and benefits. States are also transitioning to new open technologies, integrated data, and nimble development processes to yield meaningful outcomes in a timely manner. CGI can guide the State across the changing landscape, with 5+ years deploying enterprise applications using Agile methodologies across diverse technology ecosystems, including the extended HHS community in 34 states, and the Federal Government (including CMS). Attachment A  contains additional information on our  project history.  
+Quoting the musical poet Bob Dylan- “For the times they are a-changin'”.  The HHS community we jointly serve is becoming more millennial-focused every day, expecting intuitive, accessible, and integrated solutions to deliver social service programs and benefits. States are also transitioning to new open technologies, integrated data, and nimble development processes to yield meaningful outcomes in a timely manner. CGI can guide the State across the changing landscape, with 5+ years deploying enterprise applications using Agile methodologies across diverse technology ecosystems, including the extended HHS community in 34 states, and the Federal Government (including CMS). [Attachment A](CACareMailIndex.MD) contains additional information on our  project history.  
 
 The CGI Sacramento office is very pleased to submit the CA->CareMail POC under Solicitation RFI-75001. 
 
@@ -40,7 +40,7 @@ Our product pipeline identified the core Child Welfare functionality needed by t
 (POCScope.jpg)
 *Figure 3 – Scope of the POC vs. those items noted for future development*
 
-The CA->CareMail POC backlog was managed in JIRA and was visible to the team. Following a positive Agile process, features that could not be completed within the POC duration are visible in the JIRA roadmap for the State’s consideration.  The POC product backlog is available as a resource .
+The CA->CareMail POC backlog was managed in JIRA and was visible to the team. Following a positive Agile process, features that could not be completed within the POC duration are visible in the JIRA roadmap for the State’s consideration.  The POC product backlog is available as a [resource](CACareMailIndex.MD).
 
 Our digital Sprint board (see Figure 4) shows how the team coordinated daily tasks from To Do, In Progress (coding), through Peer Review, Testing and finally into “Done” status. 
 
