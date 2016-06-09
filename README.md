@@ -13,7 +13,7 @@ CA->CareMail POC from a blank slate to a shippable MVP in about three weeks. Rea
 
 ![AgileProcess]
 (agileprocess.jpg)
-*Figure 1 – the fast and flexible CGI agile process*
+*:Figure 1 – the fast and flexible CGI agile process:*
 
 Initial tasks focused on decomposing the early vision of our Product Manager through stakeholder engagement and user experience modeling. 
 
