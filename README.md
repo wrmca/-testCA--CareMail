@@ -32,7 +32,7 @@ Major events in the CA->CareMail POC timeline visually unfolded as seen in Figur
 ![Timeline]
 (timeline.jpg)
 ||
-| :-------------------------------------------------------------------:| 
+|:-------------------------------------------------------------------:| 
 | *Figure 2 – CGI POC development seen as a timeline* | 
 
 
