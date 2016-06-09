@@ -13,7 +13,7 @@ CGI organized our Scrum-based Agile effort around weekly Sprints to advance the
 CA->CareMail POC from a blank slate to a shippable MVP in about three weeks. Real-time communication kept the team focused and minimized missteps. 
 
 ![AgileProcess]
-images/agileprocess.jpg)
+(images/agileprocess.jpg)
 *Figure 1 – the fast and flexible CGI agile process*
 
 Initial tasks focused on decomposing the early vision of our Product Manager through stakeholder engagement and user experience modeling. 
