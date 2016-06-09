@@ -13,7 +13,7 @@ CA->CareMail POC from a blank slate to a shippable MVP in about three weeks. Rea
 
 ![AgileProcess]
 (agileprocess.jpg)
-*:Figure 1 – the fast and flexible CGI agile process:*
+*Figure 1 – the fast and flexible CGI agile process*
 
 Initial tasks focused on decomposing the early vision of our Product Manager through stakeholder engagement and user experience modeling. 
 
@@ -31,6 +31,11 @@ Major events in the CA->CareMail POC timeline visually unfolded as seen in Figur
 
 ![Timeline]
 (timeline.jpg)
+*Figure 2 – CGI POC development seen as a timeline*
+
+###POC Backlog
+Our product pipeline identified the core Child Welfare functionality needed by the CA->CareMail POC. We acknowledged that the actual detail of Child Welfare service processes extend far beyond the scope of this engagement. Figure 3 visually represents the key services developed in the POC vs the scope of material staged for future development. For example, we developed a symbolic shell of a Case Plan as a proxy for future refinement.
+
 
 A full set refernce artifacts exist [here](CACareMailIndex.MD)
 
