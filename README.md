@@ -7,5 +7,7 @@ CGI leveraged our scrum based agile effort organized around weekly sprints to ad
 ![AgileProcess]
 (process.JPG)
 
+![AgileProcess]
+(agileprocess.jpg)
 
 A full set refernce artifacts exist [here](CACareMailIndex.MD)
