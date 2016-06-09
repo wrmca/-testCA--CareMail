@@ -44,6 +44,13 @@ The CA->CareMail POC backlog was managed in JIRA and was visible to the team. Fo
 
 Our digital Sprint board (see Figure 4) shows how the team coordinated daily tasks from To Do, In Progress (coding), through Peer Review, Testing and finally into “Done” status. 
 
+![Jira]
+(jira.jpg)
+*Figure 4 – Sprint board used to manage daily scrums*
+
+###The CGI Team 
+A blended team of agile developers, foster care domain stakeholders, and user experience researchers came together collaboratively to develop the CA->CareMail POC. For several team members, the project took on a special meaning since they have significant connections to the Child Welfare community.  The CGI team included members from twelve of the labor categories identified in Attachment C, as shown in Figure 5.
+
 
 A full set refernce artifacts exist [here](CACareMailIndex.MD)
 
