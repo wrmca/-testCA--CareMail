@@ -1,6 +1,6 @@
 ###CA->CareMail
 
-####CGI CA->CareMail POC Application URL  http://52.9.243.241/ [*Important Account Information*](Working Prototype- Path to POC User Story Component.docx)
+####POC Application URL  http://52.9.243.241/ [*Important Account Information*](Working Prototype- Path to POC User Story Component.docx)
 
 
 ###Introduction
