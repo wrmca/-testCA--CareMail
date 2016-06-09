@@ -77,5 +77,13 @@ Additional technical artifacts are available in the [repository](CACareMailIndex
 ###MVP POC Results 
 The resulting CA->CareMail POC is clean and usable, designed to help parents establish and manage their profiles, view local facilities, and communicate securely with their case worker.
 
+![POC Main]
+(POCmain.jpg)
+*Figure 7 – Main page of the CGI POC*
 
+###Summary
+As client needs and the HHS industry is changing, the CGI Sacramento, California office is also changing to better serve you. We approach every engagement with one objective in mind: to help clients succeed.
+
+
+*Figure 6 – Sample of UX testing results*
 
