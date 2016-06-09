@@ -62,7 +62,7 @@ In developing the CA->CareMail user experience, the CGI team leveraged several u
 Our usability testing allowed actual birth parents and case workers to evaluate the UX design proactively, providing key feedback to the development team. Figure 6 shows a sample survey topic collected. 
 
 ![UX Sample]
-(UXsample.jpg)
+(UXsample.jpg)       
 *Figure 6 – Sample of UX testing results*
 
 Based on this feedback, changes were made to both the size and weight of the POC text, improving screen readability.
