@@ -31,9 +31,9 @@ Major events in the CA->CareMail POC timeline visually unfolded as seen in Figur
 
 ![Timeline]
 (timeline.jpg)
-|| <!-- empty table header -->
-|:--:| <!-- table header/body separator with center formatting -->
-| *Figure 2 – CGI POC development seen as a timeline* | <!-- cell gets column's alignment -->
+||
+| :-------------------------------------------------------------------:| 
+| *Figure 2 – CGI POC development seen as a timeline* | 
 
 
 ###POC Backlog
