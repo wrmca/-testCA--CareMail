@@ -13,7 +13,7 @@ CGI organized our Scrum-based Agile effort around weekly Sprints to advance the
 CA->CareMail POC from a blank slate to a shippable MVP in about three weeks. Real-time communication kept the team focused and minimized missteps. 
 
 ![AgileProcess]
-(agileprocess.jpg)
+images/agileprocess.jpg)
 *Figure 1 – the fast and flexible CGI agile process*
 
 Initial tasks focused on decomposing the early vision of our Product Manager through stakeholder engagement and user experience modeling. 
@@ -31,7 +31,7 @@ After each sprint was completed, the team took time to perform a retrospective. 
 Major events in the CA->CareMail POC timeline visually unfolded as seen in Figure 2:
 
 ![Timeline]
-(timeline.jpg)
+(images/timeline.jpg)
 *Figure 2 – CGI POC development seen as a timeline* 
 
 
@@ -39,7 +39,7 @@ Major events in the CA->CareMail POC timeline visually unfolded as seen in Figur
 Our product pipeline identified the core Child Welfare functionality needed by the CA->CareMail POC. We acknowledged that the actual detail of Child Welfare service processes extend far beyond the scope of this engagement. Figure 3 visually represents the key services developed in the POC vs the scope of material staged for future development. For example, we developed a symbolic shell of a Case Plan as a proxy for future refinement.
 
 ![Scope]
-(POCScope.jpg)
+(images/POCScope.jpg)
 *Figure 3 – Scope of the POC vs. those items noted for future development*
 
 The CA->CareMail POC backlog was managed in JIRA and was visible to the team. Following a positive Agile process, features that could not be completed within the POC duration are visible in the JIRA roadmap for the State’s consideration.  The POC product backlog is available as a [resource](CACareMailIndex.MD).
@@ -47,14 +47,14 @@ The CA->CareMail POC backlog was managed in JIRA and was visible to the team. Fo
 Our digital Sprint board (see Figure 4) shows how the team coordinated daily tasks from To Do, In Progress (coding), through Peer Review, Testing and finally into “Done” status. 
 
 ![Jira]
-(jira.jpg)
+(images/jira.jpg)
 *Figure 4 – Sprint board used to manage daily scrums*
 
 ###The CGI Team 
 A blended team of agile developers, foster care domain stakeholders, and user experience researchers came together collaboratively to develop the CA->CareMail POC. For several team members, the project took on a special meaning since they have significant connections to the Child Welfare community.  The CGI team included members from twelve of the labor categories identified in Attachment C, as shown in Figure 5.
 
 ![CGI Team]
-(cgiteam.jpg)
+(images/cgiteam.jpg)
 *Figure 5 – The dedicated and experienced CGI POC team*
 
 Our combined team brings over 70+ years of partnership experience with CHHS, 75+ years in foster care support, 35+ years of open-source software technology and 45+ years in agile development. 
@@ -64,7 +64,7 @@ In developing the CA->CareMail user experience, the CGI team leveraged several u
 Our usability testing allowed actual birth parents and case workers to evaluate the UX design proactively, providing key feedback to the development team. Figure 6 shows a sample survey topic collected. 
 
 ![UX Sample]
-(UXsample.jpg)       
+(images/UXsample.jpg)       
 *Figure 6 – Sample of UX testing results*
 
 Based on this feedback, changes were made to both the size and weight of the POC text, improving screen readability.
@@ -80,7 +80,7 @@ Additional technical artifacts are available in the [repository](CACareMailIndex
 The resulting CA->CareMail POC is clean and usable, designed to help parents establish and manage their profiles, view local facilities, and communicate securely with their case worker.
 
 ![POC Main]
-(POCmain.jpg)    
+(images/POCmain.jpg)    
 *Figure 7 – Main page of the CGI POC*
 
 ###Summary
