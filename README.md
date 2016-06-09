@@ -53,6 +53,7 @@ A blended team of agile developers, foster care domain stakeholders, and user ex
 
 ![CGI Team]
 (cgiteamC.jpg)
+
 *Figure 5 – The dedicated and experienced CGI POC team*
 
 Our combined team brings over 70+ years of partnership experience with CHHS, 75+ years in foster care support, 35+ years of open-source software technology and 45+ years in agile development. 
