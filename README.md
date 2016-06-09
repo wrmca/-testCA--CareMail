@@ -63,7 +63,19 @@ Our usability testing allowed actual birth parents and case workers to evaluate 
 
 ![UX Sample]
 (UXsample.jpg)
+*Figure 6 – Sample of UX testing results*
+
+Based on this feedback, changes were made to both the size and weight of the POC text, improving screen readability.
+
+###Technical Direction
+Built following best practices from the U.S. Digital Playbook and the U.S. Web Design Standards style guide, our CA->CareMail POC is a feature-complete and capable application that demonstrates our professional Agile development capabilities. We built the POC with an enterprise, N-tiered open architecture that provides a responsive UX web interface via PC, tablet, or mobile device browser.
+
+CGI heard the State’s goals for modern and open technologies, incorporating seven such resources across all tiers on the solution (front, middle, backend). The POC is containerized using a Docker open platform; it leverages the AWS framework, and is currently deployed on the Amazon IaaS. In addition, the team leveraged open source tools to manage the project (JIRA) and communicate across the team (Slack).  Continuous build and automated testing services were established to maximize development velocity and reduce process errors.  Installation on a new host is streamlined by the tools and documentation contained in Docker.
+
+Additional technical artifacts are available in the [repository](CACareMailIndex.MD)
+
+###MVP POC Results 
+The resulting CA->CareMail POC is clean and usable, designed to help parents establish and manage their profiles, view local facilities, and communicate securely with their case worker.
 
 
-A full set refernce artifacts exist [here](CACareMailIndex.MD)
 
