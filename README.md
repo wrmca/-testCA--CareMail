@@ -1,7 +1,8 @@
 ###CA->CareMail
 
 ####URL to the CGI CA->CareMail POC Application
-http://52.9.243.241/ [*Please Read - Important Account Information*](Working Prototype- Path to POC User Story Component.docx)
+http://52.9.243.241/   [*Please Read - Important Account Information*](Working Prototype- Path to POC User Story Component.docx)
+
 
 ###Introduction
 Quoting the musical poet Bob Dylan- “For the times they are a-changin'”.  The HHS community we jointly serve is becoming more millennial-focused every day, expecting intuitive, accessible, and integrated solutions to deliver social service programs and benefits. States are also transitioning to new open technologies, integrated data, and nimble development processes to yield meaningful outcomes in a timely manner. CGI can guide the State across the changing landscape, with 5+ years deploying enterprise applications using Agile methodologies across diverse technology ecosystems, including the extended HHS community in 34 states, and the Federal Government (including CMS). [Attachment A](CACareMailIndex.MD) contains additional information on our  project history.  
