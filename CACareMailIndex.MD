@@ -1,8 +1,8 @@
 #### CA-> CareMail Techincal Document Listing 
 | RFI Requirement| CGI Comment| Supporting Artifacts  |
-| :------------- |:-------------|:-----:|
+| :------------- |:-------------|:-----|
 | a. Assigned one leader and gave that person authority and responsibility and held that person accountable for the quality of the prototype submitted | Susan Lerman – Product Owner |[Project Owner Kickoff] (artifacts/Project_Kickoff_Meeting.pdf)|
-|b. Assembled a multidisciplinary and collaborative team that includes, at a minimum, five of the labor categories as identified in Attachment C - ADPQ Vendor Pool Labor Category Descriptions.|Leveraged professional resources from CGI CA and National teams. The CGI team included members from twelve of the labor categories identified in Attachment C.|[ADPQ Attachment C] (artifacts/ADPQ_Attachment_C.pdf) [CGI Team At Work] (artifacts/CGI_Team_At_Work.pdf)|
+|b. Assembled a multidisciplinary and collaborative team that includes, at a minimum, five of the labor categories as identified in Attachment C - ADPQ Vendor Pool Labor Category Descriptions.|Leveraged professional resources from CGI CA and National teams. The CGI team included members from twelve of the labor categories identified in Attachment C.|[ADPQ Attachment C] (artifacts/ADPQ_Attachment_C.pdf)     [CGI Team At Work] (artifacts/CGI_Team_At_Work.pdf)|
 |c. Understood what people needed, by including people in the prototype development and design process|Foster Care industry experience from Susan Lerman, Susie Clare, Nancy Naber and stakeholders. Bios for the team are available in Attachment C|[Creative POC Naming Contest] (artifacts/Name_That_POC_Contest.pdf) [ADPQ Attachment C] (artifacts/ADPQ_Attachment_C.pdf)|
 |d. Used at least three “human-centered design” techniques or tools| Utilized Personas, User Stories, User Feedback, and responsive design. User Stories are available in the POC backlog. UX Testing Documentation also posted|[Personas] (artifacts/Personas.pdf) [User Stories] (artifacts/User_Stories.pdf) [POC Features by User Story] (artifacts/POC_Features_by_User_Story.pdf)|
 |e. Created or used a design style guide and/or a pattern library|Leveraged existing guides/patterns (Draft U.S. Web Design Standards, UX 2014 supplied, HHS).CGI POC Style Guide available.  Catalog of storyboards and wireframes available |[POC UI Style Guide] (artifacts/Specifications.pdf) [US Digital Services Playbook] (artifacts/US_Digital_Services_Playbook.pdf)|
@@ -18,4 +18,5 @@
 |o. Deployed their software in a container (i.e., utilized operating-system-level virtualization)|Configuration Management organized using Docker. Full CM plan included|[Docker Packaging] (artifacts/Configuration_Management_Plan.pdf)|
 |p. Provided sufficient documentation to install and run their prototype on another machine|Docker streamlines installation on new hosts, documentation included.|[Installation on a New Host] (artifacts/Configuration_Management_Plan.pdf)|
 |q. Prototype and underlying platforms used to create and run the prototype are openly licensed and free of charge|POC licensed with Open Source Initiative (MIT) license. Copy of the license available.|[MIT License] (artifacts/MIT_License.pdf)|
+
 
