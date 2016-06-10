@@ -1,7 +1,7 @@
 #### CA-> CareMail Techincal Document Listing 
 | RFI Requirement| CGI Comment| Supporting Artifacts  |
 | :------------- |:-------------|:-----:|
-| a. Assigned one leader and gave that person authority and responsibility and held that person accountable for the quality of the prototype submitted | Susan Lerman – Product Owner | (filename) |
+| a. Assigned one leader and gave that person authority and responsibility and held that person accountable for the quality of the prototype submitted | Susan Lerman – Product Owner | ![label] (artifacts/fname) ![label2] (artifacts/fname)|
 |b. Assembled a multidisciplinary and collaborative team that includes, at a minimum, five of the labor categories as identified in Attachment C - ADPQ Vendor Pool Labor Category Descriptions.|Leveraged professional resources from CGI CA and National teams. The CGI team included members from twelve of the labor categories identified in Attachment C.|(filename)|
 |c. Understood what people needed, by including people in the prototype development and design process|Foster Care industry experience from Susan Lerman, Susie Clare, Nancy Naber and stakeholders. Bios for the team are available in Attachment C|(filename)|
 |d. Used at least three “human-centered design” techniques or tools| Utilized Personas, User Stories, User Feedback, and responsive design. User Stories are available in the POC backlog. UX Testing Documentation also posted|(filename)|
