@@ -1,6 +1,6 @@
 ###CA->CareMail
 
-####POC Application URL  http://52.9.243.241/ [*Please Read - Important Account Info*](AccountIntro.pdf)
+####POC Application URL  http://52.9.243.241/ [*Please Read - Important Account Info*](artifacts/AccountIntro.pdf)
 
 
 ###Introduction
